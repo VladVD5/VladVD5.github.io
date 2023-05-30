@@ -3,14 +3,14 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Мой эксперимент с CSS 31.03</title>
+<title>Мой эксперимент с CSS</title>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
 <h1>Hello World!</h1>
 <p>Это мой первый CSS-пример</p>
-<p class="learned-ok">Проект по технологии индустрии 4.0. выполнили Иванов Роман и Гусев Артем</p>
+<p class="learned-ok">Проект по технологии индустрии 4.0. выполнили Дулев Владислав и Мехроджиддин</p>
 </body>
 
 </html>
